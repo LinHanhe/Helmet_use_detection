@@ -12,7 +12,6 @@ journal={IEEE Access},
 title={Helmet Use Detection of Tracked Motorcycles Using CNN-Based Multi-Task Learning}, 
 year={2020},
 volume={8},
-number={},
 pages={162073-162084},}
 </pre>
 </small>
