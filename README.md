@@ -4,8 +4,6 @@ This code implements a deep learning model for identifying and tracking individu
 
 The data used for training, i.e., HELMET Dataset, can be downloaded from https://osf.io/4pwj8/
 
-![](example.gif)
-
 <small>
 <pre>
 @article{HelmetLin2020,
@@ -18,3 +16,7 @@ number={},
 pages={162073-162084},}
 </pre>
 </small>
+
+![](example.gif)
+
+
